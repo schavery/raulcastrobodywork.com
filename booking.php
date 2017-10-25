@@ -27,8 +27,9 @@
 <div class="content">
 <div>
 <!--<h1>We Will Be Out Of Office Until 4/12.</h1><p>Please Check Our <a href="https://clients.mindbodyonline.com/home/?studioid=250857">Booking Site</a> For Availability.</p>
-<p>Thank You!</p>
-<hr>-->
+<p>Thank You!</p>-->
+<p style="padding-left: 20px;"><strong>Appointments currently being taken by phone only. 415-637-3386.</strong></p>
+<hr>
 <p style="padding-left: 20px;"><strong>Would you like to book your session or purchase Gift Certificates? ---> <a href="https://clients.mindbodyonline.com/classic/home?studioid=250857">CLICK HERE!</a>  <br><br>You'll be asked to create an account with MindBody Online and you'll have access to my Calendar.  What you see is what is available.  If something opens up I will make it available on this site. <br> <br>If you prefer booking by phone please call 415.637.3386 and leave a message detailing some date and time options.  I will do my best to get back to you as soon as possible but Online Requests take precedence.  <br><br>If you are a new client please click on the link below to download the Client Intake Form.  Thank you!<br>
 
 </div>
