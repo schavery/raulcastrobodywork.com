@@ -26,18 +26,12 @@
 
 <div class="content">
 <div>
-<!--<h1>We Will Be Out Of Office Until 4/12.</h1><p>Please Check Our <a href="https://clients.mindbodyonline.com/home/?studioid=250857">Booking Site</a> For Availability.</p>
-<p>Thank You!</p>-->
 <p style="padding-left: 20px;"><strong>Appointments currently being taken by phone only. 415-637-3386.</strong></p>
-<hr>
-<p style="padding-left: 20px;"><strong>Would you like to book your session or purchase Gift Certificates? ---> <a href="https://clients.mindbodyonline.com/classic/home?studioid=250857">CLICK HERE!</a>  <br><br>You'll be asked to create an account with MindBody Online and you'll have access to my Calendar.  What you see is what is available.  If something opens up I will make it available on this site. <br> <br>If you prefer booking by phone please call 415.637.3386 and leave a message detailing some date and time options.  I will do my best to get back to you as soon as possible but Online Requests take precedence.  <br><br>If you are a new client please click on the link below to download the Client Intake Form.  Thank you!<br>
-
+<p style="padding-left: 20px;">Please call 415.637.3386 and leave a message detailing some date and time options.  I will do my best to get back to you as soon as possible.<br><br>If you are a new client please click on the link below to download the Client Intake Form. Thank you!
 </div>
 
-
-
 <div style="padding: 10px 0 0 20px;">
-<p><a target="_blank" href="RCB Intake New.pdf"><h2>New clients: please click here to download the intake form and bring the completed paperwork with you.<br> Please include as much detail as possible regarding your physical conditions so that I may better serve you on the day of your treatment.</h></a></p></div>
+<p><a target="_blank" href="RCB Intake New.pdf"><h2>New clients: please click here to download the intake form and bring the completed paperwork with you.<br>Please include as much detail as possible regarding your physical conditions so that I may better serve you on the day of your treatment.</h2></a></p></div>
 <br>
 
 <p>NOTE:  If you have booked an appointment and find that you are feeling unwell or have been sick within the past 48 hours I highly recommend rescheduling your appointment.  Even if you are just getting the beginning symptoms it is far better to take care of yourself and protect your massage therapist and other clients from possible effects.  If you arrive for your appointment and are showing signs of illness you may be asked to return at another date.  I will afford this same courtesy to you and may have to cancel should I feel under the weather.  It's out of respect for each other.<br><br> 
